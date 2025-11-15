@@ -6,12 +6,10 @@ REST API for finding nearby restaurants using Google Maps Places API. The applic
 
 - [Features](#-features)
 - [Technology Stack](#-technology-stack)
-- [Requirements](#-requirements)
 - [Installation and Setup](#-installation-and-setup)
 - [Configuration](#-configuration)
 - [API Endpoints](#-api-endpoints)
 - [Request Examples](#-request-examples)
-- [Project Structure](#-project-structure)
 - [Error Handling](#-error-handling)
 
 ## ✨ Features
